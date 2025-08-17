@@ -1,6 +1,6 @@
 # Website
 
-This website should be the focal point of the Brick Labs community, where various programs are made available for download and users can share their own creations using these.
+This website should be the focal point of the Brick Labs community, where various programs are made available for download and users can share their own creations.
 
 ## Requirements
 All functional and non-functional requirements are listed below in the form of check boxes to provide an overview of what has already been implemented.
